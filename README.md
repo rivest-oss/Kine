@@ -20,6 +20,16 @@ Pressing Function keys will cause the map to regenerate as:
 * **F5**: Voronoi/Cellular noise.
 * other functions keys: same as **F1**.
 
+Also,
+
+* with the `S` key, you can make the whole simulation faster
+  (up to 1000x).
+* with the `A` key, you can make the whole simulation slower
+  (at min. 1x).
+* with the `I`, you can invert the amount of food in all cells.
+* you can drag & drop an image (PNG, JPG and GIF) to use it as
+  food cell.
+
 **Inspired by:**
 
 * [Kinesis, a real thing in biology](https://en.wikipedia.org/wiki/Kinesis_(biology)).
